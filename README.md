@@ -1,4 +1,28 @@
-### Hi there 👋
+## About Me
+
+I am **Optimizeforall** my mission is to develop interesting software that utilizes AI and promotes self-learning. I wish to squash all inneficiencies in my the world, and promote the conscious and intelligent use of emergent technologies, as well as promoting human health and well-being.
+
+
+## My Personal Projects
+
+- [**Accountibot**](https://github.com/optimizeforall/AccountiBot)
+  - Discord bot that keeps you accountable for your goals while giving support and encouragement.
+- [**Cbot**](https://github.com/optimizeforall/Cbot)
+  - A CLI tool that allows you to input nature language commands to control your computer.
+- [**AI-AudioCleaner**](https://github.com/optimizeforall/AI-AudioCleaner)
+  - Simple script that uses AI to remove background noise from audio files.
+- More more to come...
+
+##  Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Paillat-dev&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=optimizeforall&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Links 
+
+✨ [Twitter](https://twitter.com/optimizeforall) ✨
 
 <!--
 **optimizeforall/optimizeforall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
