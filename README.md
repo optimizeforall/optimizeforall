@@ -1,6 +1,6 @@
 ## About Me
 
-I am **Optimizeforall** my mission is to develop interesting software that utilizes AI and promotes self-learning. I wish to squash all inneficiencies in my the world, and promote the conscious and intelligent use of emergent technologies, as well as promoting human health and well-being.
+I am **Optimizeforall** my mission is to develop interesting software that utilizes AI and promotes self-learning. I wish to resolve inneficiencies the world which prevent the conscious and intelligent use of technology. I also wish to promote human health and well-being through code.
 
 
 ## My Personal Projects
