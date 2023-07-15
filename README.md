@@ -4,7 +4,8 @@ I am **Optimizeforall** my mission is to develop interesting software that utili
 
 
 ## My Personal Projects
-
+-[**ibot**](https://github.com/optimizeforall/InsightBot)
+  - CLI tool that generates key insights about code, it also suggests code improvements / optimizations
 - [**Accountibot**](https://github.com/optimizeforall/AccountiBot)
   - Discord bot that keeps you accountable for your goals while giving support and encouragement.
 - [**Cbot**](https://github.com/optimizeforall/Cbot)
